@@ -1,0 +1,49 @@
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.exe
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.deps.json
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.runtimeconfig.json
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.dll
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.pdb
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.csproj.AssemblyReference.cache
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.MainForm.resources
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.csproj.GenerateResource.cache
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.AssemblyInfoInputs.cache
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.AssemblyInfo.cs
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.dll
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\refint\Assignment3.dll
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.pdb
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.genruntimeconfig.cache
+C:\Users\Gigel\source\repos\Assignment3\Assignment3\obj\Debug\net6.0-windows\ref\Assignment3.dll
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.exe
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.deps.json
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.runtimeconfig.json
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.dll
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\bin\Debug\net6.0-windows\Assignment3.pdb
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.MainForm.resources
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.csproj.GenerateResource.cache
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.AssemblyInfoInputs.cache
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.AssemblyInfo.cs
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.dll
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\obj\Debug\net6.0-windows\refint\Assignment3.dll
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.pdb
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\obj\Debug\net6.0-windows\Assignment3.genruntimeconfig.cache
+C:\Users\Gigel\OneDrive\Desktop\Assignment3\Assignment3\obj\Debug\net6.0-windows\ref\Assignment3.dll
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\bin\Debug\net6.0-windows\Assignment3.exe
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\bin\Debug\net6.0-windows\Assignment3.deps.json
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\bin\Debug\net6.0-windows\Assignment3.runtimeconfig.json
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\bin\Debug\net6.0-windows\Assignment3.dll
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\bin\Debug\net6.0-windows\Assignment3.pdb
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\obj\Debug\net6.0-windows\Assignment3.MainForm.resources
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\obj\Debug\net6.0-windows\Assignment3.csproj.GenerateResource.cache
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\obj\Debug\net6.0-windows\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\obj\Debug\net6.0-windows\Assignment3.AssemblyInfoInputs.cache
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\obj\Debug\net6.0-windows\Assignment3.AssemblyInfo.cs
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\obj\Debug\net6.0-windows\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\obj\Debug\net6.0-windows\Assignment3.dll
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\obj\Debug\net6.0-windows\refint\Assignment3.dll
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\obj\Debug\net6.0-windows\Assignment3.pdb
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\obj\Debug\net6.0-windows\Assignment3.genruntimeconfig.cache
+C:\Users\Gigel\OneDrive\Desktop\BMI calculator\Assignment3\obj\Debug\net6.0-windows\ref\Assignment3.dll

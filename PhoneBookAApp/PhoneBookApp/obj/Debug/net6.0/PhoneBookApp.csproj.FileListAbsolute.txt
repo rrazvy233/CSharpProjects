@@ -1,0 +1,15 @@
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\bin\Debug\net6.0\PhoneBookApp.exe
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\bin\Debug\net6.0\PhoneBookApp.deps.json
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\bin\Debug\net6.0\PhoneBookApp.runtimeconfig.json
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\bin\Debug\net6.0\PhoneBookApp.dll
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\bin\Debug\net6.0\PhoneBookApp.pdb
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.csproj.AssemblyReference.cache
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.AssemblyInfoInputs.cache
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.AssemblyInfo.cs
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.csproj.CoreCompileInputs.cache
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.dll
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net6.0\refint\PhoneBookApp.dll
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.pdb
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net6.0\PhoneBookApp.genruntimeconfig.cache
+C:\Users\Gigel\source\repos\Assignment4C\PhoneBookApp\obj\Debug\net6.0\ref\PhoneBookApp.dll
