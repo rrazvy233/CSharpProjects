@@ -17,7 +17,7 @@ namespace Assignment2
         private void Introduce()
         {
             //introduction info
-            Console.WriteLine("My name is Razvan and i am a student of Malmö University");
+            Console.WriteLine("My name is Razvan and i will be your guide");
             Console.WriteLine();
             Console.WriteLine("\nLet me know about yourself!");
             //read name
